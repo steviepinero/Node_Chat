@@ -58,7 +58,7 @@ body {
 
 .banner {
 	height: 70px;
-	background-color: #3c4446;
+	background-color: black;
 	margin-bottom: 200px;
 }
 
@@ -71,7 +71,7 @@ body {
 	font-size:25px;
 }
 .bannertext span {
-	color: #d6441b;
+	color: purple;
 }
 
 
@@ -489,12 +489,14 @@ body {
 	clear:both;
 	float:left;
 	margin-bottom:10px;
+	font-size: 16px;
 }
 
 .you {
 	clear:both;
 	float:right;
 	margin-bottom:10px;
+	font-size: 16px;
 }
 
 .you .image{
